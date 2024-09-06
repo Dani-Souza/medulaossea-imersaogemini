@@ -12,7 +12,7 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    background-image: url('https://img.freepik.com/fotos-gratis/visao-de-maos-segurando-coracoes-vermelhos-para-representar-afeicao_23-2151728386.jpg?t=st=1725570200~exp=1725573800~hmac=68f16e64675aa12bc2ec768298503d1d6b9143c59e6036a74544117fc55a0eda&w=1380');
+    background-image: url('https://img.freepik.com/fotos-gratis/visao-de-maos-segurando-coracoes-vermelhos-para-representar-afeicao_23-2151728386.jpg?&w=1150');
     background-size: cover;
     background-position: center;
     opacity: initial;
@@ -75,6 +75,7 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
+    width: 95%;
     background: #d0e0d7; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */

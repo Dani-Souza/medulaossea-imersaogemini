@@ -1,7 +1,7 @@
 let perguntas = [
     
     {
-        titulo: "O doador sente dor na coleta da medula",
+        titulo: "O doador sente dor na coleta da medula?",
         descrição: "A coleta da medula óssea é realizada sob anestesia, por isso, o doador nãosente dor durante o procedimento.Após a cirurgia, é comum sentir um pouco de dor no local da punção, mas essa dor pode ser controlada com analgésicos.",
         link:"https://redome.inca.gov.br/doador/a-doacao-de-medula-ossea/",
     },
@@ -11,7 +11,7 @@ let perguntas = [
         link:"https://redome.inca.gov.br/doador/a-doacao-de-medula-ossea/",
     },
     {
-        titulo: "Quanto tempo de internação e recuperação para o doador",
+        titulo: "Quanto tempo de internação e recuperação para o doador?",
         descrição: "O tempo de internação após a doação de medula óssea varia, mas geralmente é de 24 horas. A recuperação completa pode levar alguns dias, e é importante seguir as orientações médicas paragarantir uma boa recuperação",
         link:"https://redome.inca.gov.br/doador/a-doacao-de-medula-ossea/",
     },
