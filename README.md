@@ -1,4 +1,4 @@
-## **## README.md: Um Guia Rápido para o Seu Site de Perguntas Frequentes sobre Doação de Medula**
+## ** Perguntas Frequentes sobre Doação de Medula - Imersão Dev com Google Gemini**
 
 ### **O que faz essa aplicação?**
 
