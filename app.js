@@ -6,7 +6,7 @@ function pesquisar() {
     
     //se campoPesquisa for uma string sem nada
     if(!campoPesquisa){
-        section.innerHTML = "<p>Essa palavra não foi encontrada.Utilize palavras chaves para identificar sua dúvida </p>"
+        section.innerHTML = `<p class="item-resultado-nao-encontrado">Essa palavra não foi encontrada.Utilize palavras chaves para identificar sua dúvida </p>`;
         return
     }
 
@@ -41,7 +41,7 @@ function pesquisar() {
     }
 
     if(!perguntas_frequentes){
-        perguntas_frequentes = "<p>Nada foi encontrado</p>"
+        perguntas_frequentes = `<p class="item-resultado-nao-encontrado" >Nada foi encontrado</p>`;
 
     }
 

@@ -106,6 +106,12 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+/* Estiliza a descrição de quando não há nenhum item encontrado  */
+.item-resultado-nao-encontrado {
+    color: #f1f6f1; /* Cor do texto */
+    margin: 0.5rem 0; /* Margem acima e abaixo */
+}
+
 /* Estiliza o rodapé da página */
 footer {
     background-color: #a0eba100; /* Cor de fundo do rodapé */
